@@ -20,5 +20,8 @@
   "homepage": "https://github.com/ahonn/hexo-theme-even#readme",
   "devDependencies": {
     "eslint": "^3.12.0"
+  },
+  "dependencies": {
+    "hexo-generator-search": "^1.0.3"
   }
 }

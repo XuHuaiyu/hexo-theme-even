@@ -3,7 +3,7 @@
 # ===========================================
 
 # Site creation time
-since: 2015
+since: 2017
 
 # Custom your favicon.ico in `site/source`
 favicon: /favicon.ico
@@ -19,12 +19,12 @@ rss: false
 menu:
   Home: /
   Archives: /archives/
-  # Tags: /tags
-  # Categories: /categories
-  # About: /about
+  Tags: /tags
+  Categories: /categories
+  About: /about
 
 # site search option
-search: false
+search: true
 
 # Fancybox
 fancybox: true
@@ -35,17 +35,17 @@ fancybox: true
 # theme styling
 # color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
 theme:
-  color: Default
+  color: Cobalt Blue
 
 # ===========================================
 # Social links Settings
 # ===========================================
 social:
-  email: your@email.com
+  email: aaa@email.com
   stack-overflow:
   twitter:
   facebook:
-  github: 
+  github: https://github.com/XuHuaiyu
   weibo: 
   zhihu: 
 
@@ -63,6 +63,10 @@ duoshuo_shortname:
 # Disqus
 disqus_shortname: 
 
+# ===========================================
+# language
+# ===========================================
+language: zh-cn
 
 # ===========================================
 # Version
