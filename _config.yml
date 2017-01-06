@@ -56,12 +56,12 @@ social:
 # Baidu Analytics
 baidu_analytics: 
 # Google Analytics
-google_analytics: 
+google_analytics: UA-89918229-1
 
 # Duoshuo
 duoshuo_shortname: 
 # Disqus
-disqus_shortname: 
+disqus_shortname: xhyblog
 
 # ===========================================
 # language
